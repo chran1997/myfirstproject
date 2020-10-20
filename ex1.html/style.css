@@ -1,0 +1,18 @@
+
+table,th,td{
+   border: 1px solid black;
+    }
+table{
+   border-collapse: collapse;
+   width: 50%;
+   table-align: center;
+    }
+th{
+  height: 30px;
+  text-align: center;
+  }
+td{
+  text-align: center;
+  width: 10%;
+ }
+
